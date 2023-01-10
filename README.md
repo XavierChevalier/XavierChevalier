@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Xavier Chevalier</h1>
 <h3 align="center">A passionate freelance Lead Web Dev ✨ Software Craftsman from France</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xavierchevalier&label=Profile%20views&color=0e75b6&style=flat" alt="xavierchevalier" /> </p>
-
 - 🔭 I’m currently working on [l'Abeille Viennoise](https://github.com/XavierChevalier/labeilleviennoise)
 
 - 🌱 I’m currently learning **Rust**
@@ -15,6 +13,10 @@
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=xavierchevalier&show_icons=true&locale=en" alt="xavierchevalier" />
-  &nbsp;
+</p>
+
+<p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xavierchevalier&show_icons=true&locale=en&layout=compact" alt="xavierchevalier" />
 </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=xavierchevalier&label=Profile%20views&color=0e75b6&style=flat" alt="xavierchevalier" /> </p>
