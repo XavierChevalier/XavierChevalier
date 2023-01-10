@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences &nbsp;[<img align="bottom" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chevalier-xavier" height="14" width="14" />&nbsp;&nbsp;LinkedIn](https://www.linkedin.com/in/chevalier-xavier/)
 
-<p align="center">
+<p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=xavierchevalier&show_icons=true&locale=en" alt="xavierchevalier" />
   &nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xavierchevalier&show_icons=true&locale=en&layout=compact" alt="xavierchevalier" />
