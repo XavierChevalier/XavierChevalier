@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Xavier Chevalier</h1>
 <h3 align="center">A passionate freelance Lead Web Dev ✨ Software Craftsman from France</h3>
 
-- 🔭 I’m currently working on [l'Abeille Viennoise](https://github.com/XavierChevalier/labeilleviennoise)
+- 🔭 I’m currently working at Wise Building
 
 - 🌱 I’m currently learning **Rust**
 
